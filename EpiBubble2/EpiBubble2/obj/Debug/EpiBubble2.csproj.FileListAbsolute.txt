@@ -20,3 +20,14 @@ F:\EpiBubble2\EpiBubble2\obj\Debug\EpiBubble2.csproj.CoreCompileInputs.cache
 F:\EpiBubble2\EpiBubble2\obj\Debug\EpiBubble2.csproj.CopyComplete
 F:\EpiBubble2\EpiBubble2\obj\Debug\EpiBubble2.exe
 F:\EpiBubble2\EpiBubble2\obj\Debug\EpiBubble2.pdb
+C:\Users\rocail\Documents\epibubble\EpiBubble2\EpiBubble2\bin\Debug\EpiBubble2.exe.config
+C:\Users\rocail\Documents\epibubble\EpiBubble2\EpiBubble2\bin\Debug\EpiBubble2.exe
+C:\Users\rocail\Documents\epibubble\EpiBubble2\EpiBubble2\bin\Debug\EpiBubble2.pdb
+C:\Users\rocail\Documents\epibubble\EpiBubble2\EpiBubble2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rocail\Documents\epibubble\EpiBubble2\EpiBubble2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\rocail\Documents\epibubble\EpiBubble2\EpiBubble2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rocail\Documents\epibubble\EpiBubble2\EpiBubble2\obj\Debug\EpiBubble2.csprojAssemblyReference.cache
+C:\Users\rocail\Documents\epibubble\EpiBubble2\EpiBubble2\obj\Debug\EpiBubble2.csproj.CoreCompileInputs.cache
+C:\Users\rocail\Documents\epibubble\EpiBubble2\EpiBubble2\obj\Debug\EpiBubble2.csproj.CopyComplete
+C:\Users\rocail\Documents\epibubble\EpiBubble2\EpiBubble2\obj\Debug\EpiBubble2.exe
+C:\Users\rocail\Documents\epibubble\EpiBubble2\EpiBubble2\obj\Debug\EpiBubble2.pdb
